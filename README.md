@@ -1,2 +1,2 @@
 # programming_assignemnt_1
-Data mining assignment
+Data mining Programming Assignment 1
